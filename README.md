@@ -4,6 +4,7 @@
 
 * Coming soon...
 
-[!(./screenshots/DDT Source with JUnit.png)](https://github.com/tridominh/math-util-mvn/actions/workflows/math-util-ci.yml)
+### Screenshots
+![DDT Source with JUnit](https://github.com/tridominh/math-util-mvn/blob/main/screenshots/DDT%20Source%20with%20JUnit.png)
 
 #### Copyright &#169; 2023 tridominh
